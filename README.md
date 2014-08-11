@@ -26,9 +26,9 @@ Resources:
 http://jasmine.github.io/2.0/introduction.html
 - Original Repo
 https://github.com/pivotal/jasmine
--Releases
+- Releases
 https://github.com/pivotal/jasmine/releases
 
 To Do:
-Post with instructions of how to setup Jasmine (screenshots), and how to write an initial test.
-
+- Post with instructions of how to setup Jasmine (screenshots), and how to write an initial test.
+- How to use Jasmine for other langs.
