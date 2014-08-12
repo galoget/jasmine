@@ -34,3 +34,4 @@ To Do:
 - How to use Jasmine for other langs.
 - How to use Jasmine to test CoffeeScript.
 - Complete Fizz Buzz Kata and prepare more katas.
+- How to use jasmine form shell
